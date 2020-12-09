@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message component testing test should work 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "lightgreen",
+      "fontFamily": "Arial",
+      "height": "300px",
+      "margin": "10px",
+      "padding": "10px",
+      "textAlign": "center",
+      "width": "600px",
+    }
+  }
+>
+  <h3>
+    World is big
+  </h3>
+  <br />
+  <br />
+  <button>
+    Get New Message
+  </button>
+</div>
+`;
